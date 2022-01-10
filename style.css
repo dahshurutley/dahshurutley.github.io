@@ -1,4 +1,12 @@
-p{
+h1{
+    color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 
-    color: red;
+.testing{
+    border: lightcoral;
+    background-color: rgb(101, 154, 252);
+    padding: 0.01em 10px;
+    border-left: 6px solid;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
