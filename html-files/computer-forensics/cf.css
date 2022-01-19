@@ -2,7 +2,6 @@ body{
     background-color: rgb(57, 61, 63);
 }
 
-
 #testing{
     border: rgb(255, 255, 255);
     background-color: rgb(255, 255, 255);
@@ -18,15 +17,8 @@ body{
   
 }
 
-.heading{
-
-    color: white;
-    text-align: center;
-    align-items: center;
-
-}
-
 .child-wrap{
-    
     display: inline-block; 
 }
+
+
