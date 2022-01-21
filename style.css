@@ -10,7 +10,7 @@ body{
     border-left: 6px solid;
     border-right: 6px solid;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align-last: center;
+    text-align: center;
     border-radius: 85px;
     white-space: nowrap;
     word-spacing: 150px;
@@ -30,3 +30,8 @@ body{
     
     display: inline-block; 
 }
+
+a:visited { 
+    text-decoration: none; 
+    color: black; 
+   }
